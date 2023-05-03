@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "tipo_arrendador": "privado",
+    "zona": "interior",
+    "distrito": "San Isidro",
+    "ubicacion": "-12.094111, -77.034607",
+    "costo_hora": "10,00",
+    "costo_mes": "250,00"
+  },
+  {
+    "id": 2,
+    "tipo_arrendador": "comercial",
+    "zona": "interior",
+    "distrito": "Miraflores",
+    "ubicacion": "-12.119199, -77.033661",
+    "costo_hora": "15,00",
+    "costo_mes": "200,00"
+  },
+  {
+    "id": 3,
+    "tipo_arrendador": "privado",
+    "zona": "interior",
+    "distrito": "Magdalena",
+    "ubicacion": "-12.089962, -77.069777",
+    "costo_hora": "5,00",
+    "costo_mes": "350,00"
+  },
+  {
+    "id": 4,
+    "tipo_arrendador": "comercial",
+    "zona": "exterior",
+    "distrito": "San Isidro",
+    "ubicacion": "-12.097120, -77.033784",
+    "costo_hora": "5,00",
+    "costo_mes": "320,00"
+  },
+  {
+    "id": 5,
+    "tipo_arrendador": "privado",
+    "zona": "interior",
+    "distrito": "Miraflores",
+    "ubicacion": "-12.118886, -77.034763",
+    "costo_hora": "2,50",
+    "costo_mes": "300,00"
+  },
+  {
+    "id": 6,
+    "tipo_arrendador": "comercial",
+    "zona": "interior",
+    "distrito": "Magdalena",
+    "ubicacion": "-12.090169, -77.070611",
+    "costo_hora": "5,00",
+    "costo_mes": "360,00"
+  },
+  {
+    "id": 7,
+    "tipo_arrendador": "privado",
+    "zona": "interior",
+    "distrito": "San Isidro",
+    "ubicacion": "-12.096402, -77.035880",
+    "costo_hora": "10,00",
+    "costo_mes": "200,00"
+  },
+  {
+    "id": 8,
+    "tipo_arrendador": "comercial",
+    "zona": "interior",
+    "distrito": "Miraflores",
+    "ubicacion": "-12.119320, -77.034782",
+    "costo_hora": "15,00",
+    "costo_mes": "250,00"
+  },
+  {
+    "id": 9,
+    "tipo_arrendador": "privado",
+    "zona": "interior",
+    "distrito": "Magdalena",
+    "ubicacion": "-12.090164, -77.071107",
+    "costo_hora": "5,00",
+    "costo_mes": "225,00"
+  },
+  {
+    "id": 10,
+    "tipo_arrendador": "comercial",
+    "zona": "exterior",
+    "distrito": "San Isidro",
+    "ubicacion": "-12.098189, -77.036360",
+    "costo_hora": "15,00",
+    "costo_mes": "200,00"
+  }
+]
