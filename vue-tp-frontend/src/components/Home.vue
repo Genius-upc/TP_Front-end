@@ -1,6 +1,7 @@
 <template>
   <div class="flex justify-content-center p-fluid">
       <div v-focustrap class="card">
+      <div><img style="display" src="https://i.ibb.co/wMKZJQ4/geniuslogo.png"></div>
           <div class="field">
               <InputText id="input" v-model="name" type="text" placeholder="Name" autofocus />
           </div>
